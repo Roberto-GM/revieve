@@ -1,0 +1,15 @@
+{
+  "name": "revieve",
+  "version": "1.0.0",
+  "description": "Home test for Revieve",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Roberto Guzmán Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
